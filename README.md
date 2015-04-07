@@ -1,2 +1,2 @@
 # showcase
-Personal website theme ( ASP.NET )
+Personal Website Theme ( ASP.NET )
